@@ -1,2 +1,8 @@
 northcountrygazette.org
 www.northcountrygazette.org
+.nslnr.su
+www.nslnr.su
+telecom.uu.ru
+www.telecom.uu.ru
+.yukikov.net
+.pulpworkpress.com
